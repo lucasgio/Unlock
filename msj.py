@@ -1,8 +1,5 @@
 from tkinter import messagebox as msg
 
-
-
-
 class Mensajes:
 
         ### START MENSAJE
